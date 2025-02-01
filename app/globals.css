@@ -38,6 +38,6 @@
 
 @layer components {
   .container {
-    @apply max-w-7xl mx-auto flex flex-col items-center py-16;
+    @apply max-w-7xl mx-auto flex flex-col items-center py-20;
   }
 }

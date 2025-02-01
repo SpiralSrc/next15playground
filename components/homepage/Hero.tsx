@@ -1,4 +1,6 @@
-export default function Home() {
+import React from "react";
+
+const Hero = () => {
   return (
     <section className="w-full h-full">
       <div className="container">
@@ -6,4 +8,6 @@ export default function Home() {
       </div>
     </section>
   );
-}
+};
+
+export default Hero;
